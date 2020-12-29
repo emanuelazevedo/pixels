@@ -2,6 +2,8 @@
 
 ## You can check it in https://emanuelazevedo.github.io/pixels
 
+### You can make pixel art with the sizes you want and export the drawn to an image
+
 To setup the project do:
 - npm install node-sass@4.14.1 && npm install react-color && npm install react-component-export-image
 
